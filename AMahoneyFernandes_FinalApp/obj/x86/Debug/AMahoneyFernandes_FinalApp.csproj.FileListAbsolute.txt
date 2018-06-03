@@ -1,0 +1,7 @@
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\bin\Debug\AMahoneyFernandes_FinalApp.exe
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\bin\Debug\AMahoneyFernandes_FinalApp.pdb
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\obj\x86\Debug\AMahoneyFernandes_FinalApp.Form1.resources
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\obj\x86\Debug\AMahoneyFernandes_FinalApp.Properties.Resources.resources
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\obj\x86\Debug\AMahoneyFernandes_FinalApp.csproj.GenerateResource.Cache
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\obj\x86\Debug\AMahoneyFernandes_FinalApp.exe
+C:\Users\andrewmahoney-fernan\AppData\Local\Temporary Projects\AMahoneyFernandes_FinalApp\obj\x86\Debug\AMahoneyFernandes_FinalApp.pdb
